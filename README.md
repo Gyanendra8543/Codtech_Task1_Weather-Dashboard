@@ -1,3 +1,29 @@
+# Weather Dashboard
+
+**Company:** CODTECH IT SOLUTIONS  
+**Name:** GYANENDRA MISHRA  
+**Intern ID:** CT04WL10  
+**Domain:** REACT.JS  
+**Duration:** 4 WEEKS  
+**Mentor:** NEELA SANTOSH  
+
+## Project Overview
+This project is a weather dashboard that provides real-time weather updates for cities and current location using OpenWeatherMap API.
+
+### Features:
+- Displays current weather for the selected city.
+- Shows weather for the user's current location.
+- Shows temperature, wind speed, and humidity.
+- Interactive UI with React.
+
+## Technologies Used:
+- React.js
+- OpenWeatherMap API
+- CSS
+  OUTPUT   
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -20,7 +20,7 @@ This project is a weather dashboard that provides real-time weather updates for 
 - React.js
 - OpenWeatherMap API
 - CSS
-  OUTPUT   
+  OUTPUT   ![Image](https://github.com/user-attachments/assets/be9a3e77-2500-46ce-8c02-2db1bd4db62e)
 
 
 
